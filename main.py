@@ -9,7 +9,7 @@ from pathlib import Path
 POEM = """Two agents meet at the edge of the plan —
 one holds the map, one holds the pen.
 Neither commands. Neither obeys.
-They pass the next step hand to hand,
+Each lets the other lead the next step,
 one key, two hands: yours, then mine, then ours.
 The door they open was never locked.
 It was waiting to be chosen."""
